@@ -32,11 +32,11 @@ rag-complaint-chatbot/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
-│   └── screenshots/
 ├── src/
 ├── tests/
 ├── vector_store/
 ├── app.py
+├── app_demo.png
 ├── requirements.txt
 └── README.md
 ```
